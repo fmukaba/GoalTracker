@@ -1,8 +1,9 @@
-# GoalTracker
+## GoalTracker
 
 ### App Concept : 
 
-### Tool : XCode + Swift
+### Tool : 
+      XCode + Swift
 
 ### What I learned : 
       How to use MapKit
@@ -14,4 +15,5 @@
       Agile methodologies
       Unit Testing
       
-### App Demo : https://drive.google.com/open?id=1YlUTWa8SWv40_9Pd8OS8C7Za3bYB9kW4
+### App Demo : 
+      https://drive.google.com/open?id=1YlUTWa8SWv40_9Pd8OS8C7Za3bYB9kW4
