@@ -1,1 +1,1 @@
-// All code to build this app is property of Microsoft Core365
+// All code to build this app is property of Microsoft Core365 and cannot be disclosed.
