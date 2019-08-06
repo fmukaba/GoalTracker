@@ -1,14 +1,14 @@
 # GoalTracker
 
-## App COncept : 
+### App Concept : 
 
-## Language : Swift
+### Tool : XCode + Swift
 
-## What I learned : 
+### What I learned : 
       How to use Swift MapKit
       How to use Use CoreLocation
       
       
-## Tool : XCode
 
-## Demo : https://drive.google.com/open?id=1YlUTWa8SWv40_9Pd8OS8C7Za3bYB9kW4
+
+### Demo : https://drive.google.com/open?id=1YlUTWa8SWv40_9Pd8OS8C7Za3bYB9kW4
