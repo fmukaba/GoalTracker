@@ -1,5 +1,6 @@
 ## GoalTracker
 
+Contributors : Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francois Mukaba
 
 ### App Concept : 
 
