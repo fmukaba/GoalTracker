@@ -6,7 +6,7 @@ Contributors : Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Franco
 
       IOS app to set goals based on location and track them.
 
-### Tool : 
+### Tools : 
      
      XCode + Swift
 
