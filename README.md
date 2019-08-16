@@ -4,7 +4,7 @@ Contributors : Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Franco
 
 ### App Concept : 
 
-      IOS app to set goals based on location and track them.
+      IOS app to set goals based on location and track them (Minimum Viable Product).
 
 ### Tools : 
      
