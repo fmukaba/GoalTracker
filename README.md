@@ -10,7 +10,7 @@ Contributors : Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Franco
      
      XCode + Swift
 
-### What I learned : 
+### What we learned : 
     
       SWE role:
       
