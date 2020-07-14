@@ -2,6 +2,8 @@
 
 Contributors : Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francois Mukaba
 
+Quick demo [here](https://drive.google.com/open?id=1HcnIjSWqsoy1p_ZYqIA66eKIa0CK14kJ)
+
 ### App Concept : 
 
       IOS app to set goals based on location and track them (Minimum Viable Product).
@@ -28,6 +30,4 @@ Contributors : Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Franco
       Agile methodologies
      
       
-### App Demo : 
       
-      https://drive.google.com/open?id=1HcnIjSWqsoy1p_ZYqIA66eKIa0CK14kJ
